@@ -1,12 +1,9 @@
 ---
 title: "Gallery"
-excerpt: "Recent Experiences <br/><img src='images/IMG-5620.jpg'>"
+excerpt: "Recent Experiences <br/><img src='/images/IMG-5620.jpg'>"
 collection: portfolio
 ---
-<html>
-<body>
   <div class="wrapper"> 
-<img src="images/IMG-5620.png">
+<img src="/images/IMG-5620.png">
   </div>
-</body>
-</html>
+
