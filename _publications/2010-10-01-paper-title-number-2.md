@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "THE GENERALIZED POISSON-EXPONENTIAL DISTRIBUTION"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'In this paper we have introduced a new lifetime distribution with increasing and decreasing failure rate, by generalizing the Poisson-Exponential distribution introduced by Cancho et al.(2011).'
+date: 2015-01-01
+venue: 'Journal of ISOSS'
+paperurl: 'http://www.joi.isoss.net/PDFs/Vol-1-no-2-2015/2.pdf'
+citation: 'Fatima, A. and Roohi, A. (2015). The Generalized Poisson-Exponential distribution. <i> Journal of ISOSS </i> 1, 103–118.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper we have introduced a new lifetime distribution with increasing and decreasing failure rate, by generalizing the Poisson-Exponential distribution introduced by Cancho et al.(2011).
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://www.joi.isoss.net/PDFs/Vol-1-no-2-2015/2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Fatima, A. and Roohi, A. (2015). The Generalized Poisson-Exponential distribution. <i> Journal of ISOSS <i> 1, 103–118.
