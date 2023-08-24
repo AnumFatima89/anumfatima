@@ -16,6 +16,7 @@ Currently, I am working towards my [DPhil in Statistics](https://www.stats.ox.ac
 							<section class="year">
 								<h3>2023</h3>
 								<section>
+									<h4>July</h4>
 									<ul>
 										<li> Presented a poster in "43rd Conference on Stochastic Processes and their Applications" at the University of Lisbon, Portugal.</li>
 									</ul>
