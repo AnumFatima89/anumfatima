@@ -18,14 +18,14 @@ Currently, I am working towards my [DPhil in Statistics](https://www.stats.ox.ac
 								<section>
 									<h4>July</h4>
 									<ul>
-										<li> Presented a poster in "43rd Conference on Stochastic Processes and their Applications" at the University of Lisbon, Portugal.</li>
+										<li> Presented a poster at "43rd Conference on Stochastic Processes and their Applications" at the University of Lisbon, Portugal.</li>
 									</ul>
 								</section>	
 								<section>
 									<h4>June</h4>
 									<ul>
-										<li> Gave a short talk on my recent work in "Distance-based methods in Machine Learning workshop" at University College London.  </li>
-										<li> Presented a poster in "First Year Graduate Poster Session" at the Department of Statistics, University of Oxford. </li>
+										<li> Gave a short talk on my recent work at "Distance-based methods in Machine Learning workshop" at University College London.  </li>
+										<li> Presented a poster at "First Year Graduate Poster Session" at the Department of Statistics, University of Oxford. </li>
 									</ul>
 								</section>
 									
