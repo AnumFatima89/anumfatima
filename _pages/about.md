@@ -16,6 +16,13 @@ Currently, I am working towards my [DPhil in Statistics](https://www.stats.ox.ac
 							<section class="year">
 								<h3>2023</h3>
 								<section>
+									<h4>September</h4>
+									<ul>
+										<li> Gave a short talk at 2nd "RandNET meeting -- Workshop on Graph Limits and Networks" at Charles University, Prague. </li>
+									</ul>
+								</section>
+									
+								<section>
 									<h4>July</h4>
 									<ul>
 										<li> Presented a poster at "43rd Conference on Stochastic Processes and their Applications" at the University of Lisbon, Portugal.</li>
