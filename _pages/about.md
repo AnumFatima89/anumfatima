@@ -16,6 +16,13 @@ Currently, I am working towards my [DPhil in Statistics](https://www.stats.ox.ac
 							<section class="year">
 								<h3>2023</h3>
 								<section>
+									<h4>October</h4>
+									<ul>
+										<li> Extended abstract accepted for an oral presentation at "12th International Conference on Complex Networks & Their Applications" in Menton, France. </li>
+									</ul>
+								</section>
+								
+								<section>
 									<h4>September</h4>
 									<ul>
 										<li> Gave a short talk at 2nd "RandNET meeting -- Workshop on Graph Limits and Networks" at Charles University, Prague. </li>
@@ -64,4 +71,3 @@ Currently, I am working towards my [DPhil in Statistics](https://www.stats.ox.ac
 						</div>
 					</div>
 				</section>
-			<!-- Three -->
