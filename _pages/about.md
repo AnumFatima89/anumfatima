@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student, working towards my [DPhil in Statistics](https://www.stats.ox.ac.uk/people/anum-fatima) at the University of Oxford and a [lecturer](https://www.lcwu.edu.pk/anum-fatima.html) in statistics at Lahore College for Women University, Lahore (currently on study leave). My DPhil is graciously funded by the Commonwealth Scholarship Commission in the United Kingdom. 
+I am a student working towards my [DPhil in Statistics](https://www.stats.ox.ac.uk/people/anum-fatima) at the University of Oxford, and a [lecturer](https://www.lcwu.edu.pk/anum-fatima.html) in statistics at Lahore College for Women University, Lahore (currently on study leave). My DPhil is graciously funded by the Commonwealth Scholarship Commission in the United Kingdom. 
 
 I am mostly interested in working on Stein's method, network models, and probability distributions. Currently, I am working on Stein's method for Stochastic blockmodels under the supervision of [Professor Gesine Reinert](https://www.stats.ox.ac.uk/people/gesine-reinert). I am also interested in learning about hypergraphs.
 
