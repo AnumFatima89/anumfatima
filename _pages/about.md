@@ -20,6 +20,13 @@ Previously, I developed a univariate probability distribution, namely the Genera
 							<section class="year">
 								<h3>2023</h3>
 								<section>
+									<h4>November</h4>
+									<ul>
+										<li> Gave an oral presentation at "12th International Conference on Complex Networks & Their Applications" in Menton, France. </li>
+										<li> Participated in "Poster competition in Statistics & Probability" at University College London, UK. </li>
+									</ul>
+								</section>
+								<section>
 									<h4>October</h4>
 									<ul>
 										<li> Extended abstract accepted for an oral presentation at "12th International Conference on Complex Networks & Their Applications" in Menton, France. </li>
